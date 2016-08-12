@@ -4,6 +4,8 @@ Game-Developers-Support-Group
 ### Why Github — Version Control?
 [Git is a powerful version control system](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control). It is used to record and manage changes to the files over time, allows multiple users to collaborate on a project and manage conflicts between different versions of a given file.
 
+When you're ready to start your own Repository or Project, don't forget to [check out GitHub's tutorial!](https://guides.github.com/activities/hello-world/)
+
 ### Exploring the Repository
 For the newcomer: this space is called a **Repository**. In Github, a Repository is an overloaded term with it has 7 Tabs:
 
