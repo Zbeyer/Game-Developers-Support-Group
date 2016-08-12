@@ -12,6 +12,7 @@ For the newcomer: this space is called a **Repository**. In Github, a Repository
 2. **[Issues Tab](https://github.com/Zbeyer/Game-Developers-Support-Group/issues)** is a basic tracking system where users can report bugs, request features, ask questions, etc.
 
 3. **[Pull Requests Tab](https://github.com/Zbeyer/Game-Developers-Support-Group/pulls)** is very important when a project begins working with multiple branches:
+⋅⋅1. Ordered sub-list
 ⋅⋅* A Branch is a version of the project that splits off to make a change, or changes, independent of the main branch
 ⋅⋅* Branches are important on projects that need to maintain multiple states of the projects (such as when different versions exist across multiple environments).
 ⋅⋅* **Pull Requests** are created when the user wants to merge changes from one branch into another or back into the master.
