@@ -43,7 +43,6 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 * Transformations
 * Dot Product
 * Cross Product
-* Learn some System/OS concepts.
 
 * https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra
 * https://www.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/v/transforming-position-vector
@@ -68,7 +67,6 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 * create a simple platforming game
 * write your own collision detection.
 * Some people would recommend starting with a project and learning the other concepts as they come up.
-* BONUS: Learn graphics programming concepts.
 
 ### Graphics pipeline and shaders.
 * Textures: Mipmaps, bilinear/trilinear filtering.
