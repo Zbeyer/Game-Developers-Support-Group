@@ -21,6 +21,11 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 * Use sites such as projecteuler.net for practice problems.
 * https://www.toptal.com/developers/sorting-algorithms
 
+### Software Design Pattern
+* Practice and understand practical implementations of common design patterns:
+* Typescript: https://github.com/torokmark/design_patterns_in_typescript
+* C++: https://github.com/john-bai/DesignPatterns/tree/master/C%2B%2B
+
 ### Learn essential programming data structures.
 * http://www.teachingtree.co/
 * Arrays
