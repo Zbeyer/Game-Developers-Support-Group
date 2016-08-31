@@ -3,17 +3,14 @@ What you will need to learn how to do...
 Special thanks to Jonathon Junker for giving a list to springboard off of!
 
 ### General Resources:
-
 * http://gamedev.stackexchange.com/
 * http://extra-credits.net/episodes/so-you-want-to-be-a-developer-part-1/#discuss
 
 
 ### Object Oriented Programming Concepts
-
 * https://docs.oracle.com/javase/tutorial/java/concepts/
 
 ### Master 1 language:
-
 * C++
 * Javascript (Typescript)
 * C#
@@ -21,14 +18,11 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 * Java
 
 ### Writing Algorithms
-
 * Use sites such as projecteuler.net for practice problems.
 * https://www.toptal.com/developers/sorting-algorithms
 
 ### Learn essential programming data structures.
-
 * http://www.teachingtree.co/
-
 * Arrays
 * Linked Lists
 * Binary Trees
@@ -43,7 +37,7 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 * Transformations
 * Dot Product
 * Cross Product
-
+Links: 
 * https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra
 * https://www.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/v/transforming-position-vector
 * https://en.wikipedia.org/wiki/Dot_product
