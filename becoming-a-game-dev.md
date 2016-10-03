@@ -43,8 +43,7 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 
 ### Learn some linear algebra.
 * Points
-* Vectors
-⋅⋅⋅Normal Vectors: http://www.teachingtree.co/watch/normal-vectors
+* Vectors [Normal Vectors](http://www.teachingtree.co/watch/normal-vectors), [Vector Spaces](http://www.teachingtree.co/watch/vector-spaces), [Vector Processing](Vector Processing), [Vector Transformations](http://www.teachingtree.co/watch/vector-transformations)
 * Matrix
 * Transformations
 * Dot Product
