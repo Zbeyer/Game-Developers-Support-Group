@@ -3,9 +3,9 @@ What you will need to learn how to do...
 Special thanks to Jonathon Junker for giving a list to springboard off of!
 
 ### General Resources:
-* http://gamedev.stackexchange.com/
-* http://extra-credits.net/episodes/so-you-want-to-be-a-developer-part-1/#discuss
-
+* Game Dev: http://gamedev.stackexchange.com/
+* Game Dev: http://extra-credits.net/episodes/so-you-want-to-be-a-developer-part-1/#discuss
+* High level programming concepts: http://www.teachingtree.co/
 
 ### Object Oriented Programming Concepts
 * __Objects__ v __Classes__
