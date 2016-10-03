@@ -20,6 +20,7 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 ### Writing Algorithms
 * Use sites such as projecteuler.net for practice problems.
 * https://www.toptal.com/developers/sorting-algorithms
+* Introduction to Algorithms is a book by Thomas H. Cormen: https://www.amazon.com/Introduction-Algorithms-Second-Thomas-Cormen/dp/0262032937
 
 ### Software Design Pattern
 * Practice and understand practical implementations of common design patterns:
@@ -54,13 +55,15 @@ Links:
 * Multithreaded concepts: Locks and race conditions.
 * CPU registers, CPU cache, access times for RAM vs HDD, virtual memory/page files
 * Keep improving your code quality
+Links:
+* http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
 
 ### Keep improving your code quality
-* Self documenting code
+* Self documenting code (Research best practices for concise code communication) 
 * Loose Coupling vs Tight Coupling
-* Pure functions
-* Recommended Book: Code Complete by Steve McConnell
-* Create a small project, see it through to completion
+* Pure functions (broaching the subject determinism and nondeterminism)
+* Recommended Book: Code Complete by Steve McConnell: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670
+* Create a small project, see it through to completion 
 
 ### Bonus points for writing some of your own systems rather than relying completely on libraries:
 * create a simple platforming game
