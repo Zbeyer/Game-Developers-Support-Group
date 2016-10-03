@@ -44,7 +44,7 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 ### Learn some linear algebra.
 * Points
 * Vectors [Normal Vectors](http://www.teachingtree.co/watch/normal-vectors), [Vector Spaces](http://www.teachingtree.co/watch/vector-spaces), [Vector Processing](Vector Processing), [Vector Transformations](http://www.teachingtree.co/watch/vector-transformations)
-* Matrix
+* Matrix [Orthographic Matrix](http://www.teachingtree.co/watch/orthographic-matrix), [3D Rotation Matrix](http://www.teachingtree.co/watch/3d-rotation-matrix), [2D Rotation Matrix](http://www.teachingtree.co/watch/2d-rotation-matrix), [Matrix Stacks](http://www.teachingtree.co/watch/matrix-stacks), [Translation In A Matrix](http://www.teachingtree.co/watch/translation-in-a-matrix), etc.
 * Transformations
 * Dot Product
 * Cross Product
