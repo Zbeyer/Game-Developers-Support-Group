@@ -33,7 +33,6 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 * C++: https://github.com/john-bai/DesignPatterns/tree/master/C%2B%2B
 
 ### Learn essential programming data structures.
-* http://www.teachingtree.co/
 * Arrays
 * Linked Lists
 * Binary Trees
