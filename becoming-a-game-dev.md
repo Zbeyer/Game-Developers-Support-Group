@@ -45,7 +45,7 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 * Points
 * Vectors [Normal Vectors](http://www.teachingtree.co/watch/normal-vectors), [Vector Spaces](http://www.teachingtree.co/watch/vector-spaces), [Vector Processing](Vector Processing), [Vector Transformations](http://www.teachingtree.co/watch/vector-transformations)
 * Matrix [Orthographic Matrix](http://www.teachingtree.co/watch/orthographic-matrix), [3D Rotation Matrix](http://www.teachingtree.co/watch/3d-rotation-matrix), [2D Rotation Matrix](http://www.teachingtree.co/watch/2d-rotation-matrix), [Matrix Stacks](http://www.teachingtree.co/watch/matrix-stacks), [Translation In A Matrix](http://www.teachingtree.co/watch/translation-in-a-matrix), etc.
-* Transformations
+* Transformations [Purpose of Transformations](http://www.teachingtree.co/watch/purpose-of-transformations), [Linear Transformations](http://www.teachingtree.co/watch/linear-transformations), [Vetor Transformations](http://www.teachingtree.co/watch/vector-transformations), [Combining Transformations](http://www.teachingtree.co/watch/combining-transformations), [Homogeneous Transformations](http://www.teachingtree.co/watch/homogeneous-transformations), [Projective Transformations](http://www.teachingtree.co/watch/projective-transformations), [Normal Transformations](http://www.teachingtree.co/watch/normal-transformations)
 * Dot Product
 * Cross Product
 Links: 
