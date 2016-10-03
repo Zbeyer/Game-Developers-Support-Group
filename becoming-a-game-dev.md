@@ -10,7 +10,7 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 ### Object Oriented Programming Concepts
 * __Objects__ v __Classes__
 * Data strucutres v Data Types
-* Inheritance, Polymorphism, encapsulation and abstraction.
+* Inheritance, Polymorphism, Encapsulation and Abstraction.
 * Interface v Implementation
 * Packages, Libraries, and Frameworks
 * https://docs.oracle.com/javase/tutorial/java/concepts/
@@ -71,8 +71,8 @@ Links:
 * Create a small project, see it through to completion 
 
 ### Bonus points for writing some of your own systems rather than relying completely on libraries:
-* create a simple platforming game
-* write your own collision detection.
+* Create a simple platforming game
+* Write your own collision detection.
 * Some people would recommend starting with a project and learning the other concepts as they come up.
 
 ### Graphics pipeline and shaders.
