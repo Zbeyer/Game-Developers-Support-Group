@@ -8,6 +8,11 @@ Special thanks to Jonathon Junker for giving a list to springboard off of!
 
 
 ### Object Oriented Programming Concepts
+* __Objects__ v __Classes__
+* Data strucutres v Data Types
+* Inheritance, Polymorphism, encapsulation and abstraction.
+* Interface v Implementation
+* Packages, Libraries, and Frameworks
 * https://docs.oracle.com/javase/tutorial/java/concepts/
 
 ### Master 1 language:
