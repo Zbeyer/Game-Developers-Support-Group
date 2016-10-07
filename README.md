@@ -6,6 +6,7 @@ Game-Developers-Support-Group
 
 When you're ready to start your own Repository or Project, don't forget to [check out GitHub's tutorial!](https://guides.github.com/activities/hello-world/)
 
+(https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)[git Cheat Sheet]
 ### Exploring the Repository
 For the newcomer: this space is called a **Repository**. In Github, a Repository is an overloaded term with it has 7 Tabs:
 
@@ -29,3 +30,4 @@ For the newcomer: this space is called a **Repository**. In Github, a Repository
 6. **[Graphs Tab](https://github.com/Zbeyer/Game-Developers-Support-Group/graphs)** gives a visual representation of the forementioned analytics.
 
 7. **[Settings Tab](https://github.com/Zbeyer/Game-Developers-Support-Group/settings)** controls user permissions, branch settings, and other administrative level functions.
+
